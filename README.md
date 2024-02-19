@@ -22,7 +22,7 @@
 
 <details><summary>📌 Deploy to Render </summary>
   
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/RknDeveloper/Rkn_Auto-Request-Approve-bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/RknDeveloper/Rkn_Auto-Request-Approve-bot](https://github.com/Talesoflinks6/bots-test-1))
 
 </details>
   
